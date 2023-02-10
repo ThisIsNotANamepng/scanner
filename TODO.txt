@@ -1,0 +1,6 @@
+Quarantine here, move file to folder with no permissions and rename to .susp to avoid accidentally running
+
+File database in quarantine folder has to keep track of
+ - Original file extension
+ - Original path (where it was at first)
+ - Why it was quarantined
